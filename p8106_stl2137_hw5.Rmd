@@ -1,0 +1,13 @@
+---
+title: "p8106_stl2137_hw5"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ISLR)
+
+```
+
+
